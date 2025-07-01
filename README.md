@@ -1,6 +1,6 @@
 # gym-indexpage
 
-This template should help get you started developing with Vue 3 in Vite and tailwind and pinia and api .
+This template should help get you started developing with Vue 3 in Vite and tailwind and pinia and api and axios.
 
 ## Recommended IDE Setup
 
